@@ -8,8 +8,14 @@ module.exports = {
     extend: {
       colors: {
         background: '#1A1924',
-        textwhite: '#E1E1E6',
-        online: '#00B37E'
+        online: '#00B37E',
+        green: '#07847E',
+        input: '#282843'
+      },
+      gridTemplateColumns: {
+        'chat-500': '500px, 1fr',
+        'chat-300': '300px, 1fr',
+        'chat-100': '100px, 1fr',
       }
     },
   },
