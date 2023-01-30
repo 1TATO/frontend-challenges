@@ -7,7 +7,7 @@ export function Input() {
         <input
           type="text"
           placeholder="Digite sua mensagem"
-          className="w-full bg-transparent outline-none "
+          className="w-full bg-transparent outline-none"
         />
 
         <button type="submit">

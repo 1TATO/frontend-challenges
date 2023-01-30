@@ -36,6 +36,7 @@ export function ChatMessages() {
         {messages.map((message) => {
           return (
             <div
+              key={`${message.id.toString()}-${message.text}`}
               className={clsx('mt-8 flex flex-col', {
                 'items-start': message.sender !== 'Você',
                 'items-end': message.sender === 'Você',
