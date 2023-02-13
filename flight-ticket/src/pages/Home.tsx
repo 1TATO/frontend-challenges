@@ -62,6 +62,7 @@ export function Home() {
           Data
         </label>
         <input
+          required
           className="p-4 rounded-lg mb-4 w-80 bg-zinc-800 text-white placeholder:text-zinc-400 focus:outline-none focus:ring-2 focus:ring-white"
           type="date"
           {...register('date')}
