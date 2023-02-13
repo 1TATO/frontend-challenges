@@ -34,7 +34,19 @@ $ npm run dev
 - [Styled Components](https://styled-components.com)
 - [Phosphor Icons](https://phosphoricons.com)
 
-## :two: Chat Responsive Design
+## :two: Flight Ticket
+
+![2023-02-13-17-38-57](https://user-images.githubusercontent.com/42624981/218570879-3e3973e1-7d77-43b7-a278-d7134e2c9ba2.gif)
+<p>Try it here: https://jose-product-page.netlify.app</p>
+
+## :rocket: Technologies
+- [ReactJS](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org)
+- [Tailwind](https://tailwindcss.com)
+- [React-Router-Dom](https://reactrouter.com/en/main)
+- [React QR Code](https://www.npmjs.com/package/react-qr-code)
+
+## 3️⃣ Chat Responsive Design
 
 ![video](https://user-images.githubusercontent.com/42624981/215378002-fdab746f-cbed-4aa0-a529-a6afa7e0547c.gif)
 <p>Try it here: https://chat-229f3.web.app</p>
