@@ -28,7 +28,7 @@ export function Ticket() {
           Cartão de embarque
         </span>
 
-        <div className="bg-white h-48 w-80 text-black py-6 px-8 rounded-xl border-b-2 border-dashed border-gray-400">
+        <div className="bg-white h-48 w-80 text-black py-6 px-6 rounded-xl border-b-2 border-dashed border-gray-400">
           <div className="flex justify-between">
             <div>
               <p className="text-sm text-gray-800">Voo</p>
@@ -62,7 +62,7 @@ export function Ticket() {
           </div>
         </div>
 
-        <div className="bg-white h-20 w-80 text-black py-6 px-8 rounded-xl border-b-2 border-dashed border-gray-400">
+        <div className="bg-white h-20 w-80 text-black py-6 px-6 rounded-xl border-b-2 border-dashed border-gray-400">
           <div className="flex justify-between">
             <div>
               <p className="text-sm text-gray-800">Passageiro</p>
@@ -76,7 +76,7 @@ export function Ticket() {
           </div>
         </div>
 
-        <div className="bg-white h-72 w-80 text-black py-6 px-8 rounded-xl">
+        <div className="bg-white h-72 w-80 text-black py-6 px-6 rounded-xl">
           <div className="flex justify-between mb-6">
             <div>
               <div className="mb-4">
@@ -113,7 +113,7 @@ export function Ticket() {
             </div>
           </div>
 
-          <p className="ml-3">
+          <p className="ml-5">
             <span className="font-medium">Atenção:</span> o portão fecha 16:45
           </p>
         </div>
